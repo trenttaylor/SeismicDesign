@@ -1,0 +1,16 @@
+C:\Users\Trent\Source\Workspaces\Workspace\Seismic Analysis\Seismic Design\Seismic Design\obj\Debug\Seismic_Design.frm_dataWizard.resources
+C:\Users\Trent\Source\Workspaces\Workspace\Seismic Analysis\Seismic Design\Seismic Design\obj\Debug\Seismic_Design.MainForm.resources
+C:\Users\Trent\Source\Workspaces\Workspace\Seismic Analysis\Seismic Design\Seismic Design\obj\Debug\Seismic_Design.Properties.Resources.resources
+C:\Users\Trent\Source\Workspaces\Workspace\Seismic Analysis\Seismic Design\Seismic Design\obj\Debug\Seismic Design.csproj.GenerateResource.Cache
+C:\Users\Trent\Source\Workspaces\Workspace\Seismic Analysis\Seismic Design\Seismic Design\bin\Debug\Seismic Design.exe.config
+C:\Users\Trent\Source\Workspaces\Workspace\Seismic Analysis\Seismic Design\Seismic Design\bin\Debug\Seismic Design.exe
+C:\Users\Trent\Source\Workspaces\Workspace\Seismic Analysis\Seismic Design\Seismic Design\bin\Debug\Seismic Design.pdb
+C:\Users\Trent\Source\Workspaces\Workspace\Seismic Analysis\Seismic Design\Seismic Design\obj\Debug\Seismic Design.exe
+C:\Users\Trent\Source\Workspaces\Workspace\Seismic Analysis\Seismic Design\Seismic Design\obj\Debug\Seismic Design.pdb
+C:\Users\Trent\Source\Workspaces\Workspace\Seismic Analysis\Seismic Design\Seismic Design\obj\Debug\Seismic_Design.Table.resources
+C:\Users\Trent\Source\Workspaces\Workspace\Seismic Analysis\Seismic Design\_build\Debug\Seismic Design.exe.config
+C:\Users\Trent\Source\Workspaces\Workspace\Seismic Analysis\Seismic Design\_build\Debug\Seismic Design.exe
+C:\Users\Trent\Source\Workspaces\Workspace\Seismic Analysis\Seismic Design\_build\Debug\Seismic Design.pdb
+C:\Users\Trent\Source\Workspaces\Workspace\Seismic Analysis\Seismic Design\Seismic Design\obj\Debug\Seismic_Design.Chart.resources
+C:\Users\Trent\Source\Workspaces\Workspace\Seismic Analysis\Seismic Design\Seismic Design\obj\Debug\Seismic_Design.ProjectTasks.resources
+C:\Users\Trent\Source\Workspaces\Workspace\Seismic Analysis\Seismic Design\Seismic Design\obj\Debug\Seismic_Design.ResponseChart.resources
